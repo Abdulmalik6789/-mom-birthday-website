@@ -3,15 +3,15 @@ import React from 'react';
 const letters = [
     {
         intro: "Dear Mom,",
-        author: "Emm",
-        message: "Happy Birthday, Mom! As your firstborn, I'm forever grateful for the love, strength, and guidance you've given me since day one. You are my first home, my greatest teacher, and my biggest blessing. I love you endlessly!",
+        author: "Miskiat",
+        message: "Happy Birthday Mom ❤🥳. You are the sweetest, softest, and strongest woman I know. I hope to be the half of the woman you are. I pray you reap the fruits of your labor. One your joyous day you will not be absent. Ameen. Continue to age gracefully ❤. I love you Mum ❤",
         wish: "Happy birthday to the most amazing woman I know. I love you more than words can express.",
         closing: "With all my love,\nMiskiat",
         rotate: "-1deg",
     },
     {
         intro: "To my wonderful wife,",
-        author: "John",
+        author: "Dad",
         message: "47 years of your beautiful presence in this world, and I'm grateful for every moment we've shared together. Your love has made our house a home and our family complete.",
         wish: "Thank you for the joy, laughter, and love you bring to our lives every day. Happy birthday, my love.",
         closing: "Forever yours,\nDad",
@@ -19,7 +19,7 @@ const letters = [
     },
     {
         intro: "Dearest Sister,",
-        author: "Sarah",
+        author: "Mum Maziyah",
         message: "Happy birthday to one of the most amazing humans in my life🎊☺ My very own sister not by blood but by bond💕🥰 A woman with a heart of gold 💫 A mother to many☺ when it comes to taking responsibilities, you've taught me in so many languages than I thought I would know 🥰 A very doting wife💗 loving sister and caring mother🥰 May almighty Allah reward you in more ways than one🙏 May he satisfy you with long life to reap the fruit of your labor 🙏 May you never experience any lack insha Allah🙏  My Allah continue to uphold your home. Thank you for being so loving and amazing 🥰❤ Enjoy your day sissy🎂🍰 cheers to more amazing years 🥂🎊🥰",
         wish: "May Allah continue to bless and protect you always!",
         closing: "Love always,\nMum Maziyah",
@@ -35,10 +35,10 @@ const letters = [
     },
     {
         intro: "Happy Birthday, Mum,",
-        author: "Abd muiz",
+        author: "Abd'muiz",
         message: "Happy Birthday to the most incredible woman I've ever known, you're the sunshine that brightens every day, the calm in every storm, and the safe haven where I can always find peace. Your love, guidance, and unwavering support mean the world to me.\n\nAs you celebrate another year of life, I want to thank you for being my rock, my role model. Your selflessness, kindness, and generosity inspire me daily. Here's to many more adventures, laughter-filled moments, and memories to cherish. May this birthday be as extraordinary as you are. I love you more than words can express.",
         wish: "Happy birthday to my extraordinary mother!",
-        closing: "With deepest love,\nYour son, Abd muiz",
+        closing: "With deepest love,\nAbd'muiz",
         rotate: "-0.7deg",
     },
     {
