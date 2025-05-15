@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGraduationCap, FaAward, FaBriefcase, FaPaintBrush, FaHeart, FaGlobe } from 'react-icons/fa';
+import { FaGraduationCap, FaAward, FaBriefcase, FaHeart } from 'react-icons/fa';
 
 const achievements = [
     { icon: <FaGraduationCap />, title: "Master's Degree", desc: "Completed her Master's in Design while raising children" },
